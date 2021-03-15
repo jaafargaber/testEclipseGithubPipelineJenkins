@@ -1,1 +1,1 @@
-# EPSI IC IDE testEclipseGithubPipelineJenkins
+# EPSI IC IDE Atelier testEclipseGithubPipelineJenkins
