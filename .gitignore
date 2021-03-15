@@ -1,0 +1,7 @@
+# les fichiers et le répertoire de configuration d'Eclipse que nous ne souhaitons pas soumettre au gestionnaire de version
+/.settings/
+/.classpath
+/.project
+
+# exclure le répertoire de Maven qui contient entre les classes compilées de notre projet
+/target/
